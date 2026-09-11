@@ -44,8 +44,8 @@ To implement the Singleton Design Pattern ensuring that only one Print Spooler M
 ```
 /*
 Program to implement a SOLID Principles in Java Program
-Developed by: Ponguru Aasrith Sairam
-RegisterNumber: 212223240116
+Developed by: Antony Aswin Kumar L
+RegisterNumber: 212225040024
 */
 ```
 
