@@ -30,8 +30,8 @@ To write a Java program that implements the Abstract Factory Design Pattern to c
 ```
 /*
 Program to implement a Abstract Factory Pattern using Java
-Developed by: Ponguru Aasrith Sairam
-RegisterNumber:  212223240116
+Developed by: Antony Aswin Kumar L
+RegisterNumber:  212225040024
 */
 ```
 
