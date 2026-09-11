@@ -41,8 +41,8 @@ To write a Java program that demonstrates the use of methods by calculating and 
 ```
 /*
 Program to implement a Methods using Java
-Developed by: Ponguru Aasrith Sairam
-RegisterNumber: 212223240116
+Developed by: Antony Aswin Kumar L
+RegisterNumber: 212225040024
 */
 ```
 
