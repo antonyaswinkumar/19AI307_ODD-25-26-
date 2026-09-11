@@ -118,7 +118,9 @@ public class StudentSerializationUserInput {
 ```
 
 ## OUTPUT:
-<img width="1135" height="769" alt="Screenshot 2025-11-24 at 2 09 00 PM" src="https://github.com/user-attachments/assets/67dc13af-88ab-43dc-a56f-200e04a95150" />
+
+<img width="1218" height="746" alt="image" src="https://github.com/user-attachments/assets/11f6f60e-cd79-4085-9898-34ee4f134071" />
+
 
 ## RESULT:
 
